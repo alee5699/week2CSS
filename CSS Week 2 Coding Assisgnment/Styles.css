@@ -1,0 +1,62 @@
+body {
+  text-align: center; 
+  background: black;
+  color: white;
+  font-family: lucida handwriting;
+}
+
+header {
+  font-size: 10px;
+}
+
+th {
+  text-decoration: underline;
+}
+
+form {
+  border-style: solid;
+  border-color: rgb(89, 60, 134);
+  text-align: center;
+  background-color:royalblue;
+  border-width: 15px;
+}
+
+table {
+  border-style: solid;
+  border-color: rgb(89, 60, 134);
+  border-width: 15px;
+  font-style: italic;
+  background-color:royalblue;
+  table-layout: auto;
+  width: 100%;
+}
+
+.listColumn{ 
+  text-decoration: underline;
+  margin: auto  
+  text-align: center;
+  display: inline-block; text-align: left; 
+}
+
+.lists {
+  border-style: solid;
+  border-color: rgb(89, 60, 134);
+  background-color:royalblue;
+  border-width: 15px;
+  margin:auto;
+}
+
+.img1, .img2, .img3, .img4 {
+  border-style: dotted;
+  border-color: rgb(89, 60, 134);
+  border-width: 15px;
+  text-align: center;
+}
+
+.tableText {
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+  color:darkgray;
+  font-family: cursive;
+}
